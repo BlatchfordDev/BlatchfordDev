@@ -20,12 +20,3 @@
   <img src="https://img.shields.io/badge/Unity-2C2F33?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/Unreal_Engine-2C2F33?style=for-the-badge&logo=unrealengine&logoColor=white" alt"Unreal Engine">
 </div>
-
-<br><br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=30&duration=6000&pause=1000&color=3376C4&width=435&lines=%40BlatcDev)](https://git.io/typing-svg)
-
-### I’m working on
-
-- Projects for freelance clients.
-- Developing [AZRL Echo](https://www.echo.azrl.au).
