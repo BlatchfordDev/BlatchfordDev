@@ -8,6 +8,7 @@
 <br>
 
 [![Site](https://img.shields.io/badge/blatc.dev-2C2F33?style=flat-square)](https://blatc.dev)&nbsp;
+[![GitPage](https://img.shields.io/badge/blatcdev.git-2C2F33?style=flat-square)](https://blatchforddev.github.io)&nbsp;<br>
 [![GitHub](https://img.shields.io/badge/BlatchfordDev-2C2F33?style=flat-square&logo=github&logoColor=white)](https://github.com/BlatchfordDev)&nbsp;
 [![Org](https://img.shields.io/badge/BlatcDev-2C2F33?style=flat-square&logo=github&logoColor=white)](https://github.com/BlatcDev)&nbsp;
 [![X](https://img.shields.io/badge/@blatcdev-2C2F33?style=flat-square&logo=x&logoColor=white)](https://x.com/blatcdev)
